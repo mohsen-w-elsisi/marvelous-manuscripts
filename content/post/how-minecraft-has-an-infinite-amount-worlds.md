@@ -52,7 +52,7 @@ Implementing the method i described above the result is this:
 
 You might have noticed that this is not a 3D rendering but a 2D map. The problem I faced when implementing 3D procedural generation was not the algorithm itself, but the platform it was running on.
 
-As much as i love the web platform (as i explained in [this post](/posts/the-web-as-the-ultimate-app-platform/)), i do admit it has limitations, one of which is not being particularly powerful when it comes to high performance programs, like a mass 3D rendering of over a million cubes.
+As much as i love the web platform (as i explained in [this post](/post/the-web-as-the-ultimate-app-platform/)), i do admit it has limitations, one of which is not being particularly powerful when it comes to high performance programs, like a mass 3D rendering of over a million cubes.
 
 ## conclusion
 Procedural generation is quite famous among all game developers for a reason. It allows us to do more with less. While there are many  methods of procedural generation, one of the most common algorithms used for procedural terrain is perlin noise which i used by huge games like Minecraft.

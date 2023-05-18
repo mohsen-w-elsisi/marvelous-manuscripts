@@ -28,7 +28,7 @@ It's so vibrant and colorful by design. They want you to recognize it quickly. N
 All of this is in an effort to decrease the friction of opening their app. Now its just so easy that you sometimes don't realize or think about it.
 
 ## using friction for good
-Anything can be used for both good and bad. Drugs, firearms and AI all have have upsides and downsides. Friction is the same. It could be used to make you unconsciously waste time, or build habits and routines you would have considered difficult or even impossible.
+Anything can be used for both good and bad. Drugs, firearms and AI all have upsides and downsides. Friction is the same. It could be used to make you unconsciously waste time, or build habits and routines you would have considered difficult or even impossible.
 
 Let's say you wanted to eat more healthy, and stop eating biscuits and cookies. A really simple way of promoting this habit is by putting the biscuits in the cabinet, and put the fruits out on the counter. The inconvenience of going to the cupboard and opening it outweighs the pleasure of sugar and chocolate. More so if you're eating without being that hungry or no thinking much of it.
 
