@@ -90,3 +90,8 @@ Things like newsletters don’t have RSS feeds, but there’s this super cool we
 
 The content we consume is scattered among a million places. RSS can be used to gather all the things you like from these many places into one app where you can enjoy them all. There are RSS feeds for blogs, youtube channels, podcasts and through third party services email newsletter and social media. In short, RSS can solve the fragmentation of content we all have to deal with!
 
+---
+
+## sources
+
+- [stop using social media for news, rss is much better](https://www.youtube.com/watch?v=_7LTwnAaQ3k&pp=ygUYcnNzIHRoZSBsaW51eCBleHBlcmFtZW50), by the linux experament.
